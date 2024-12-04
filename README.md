@@ -3,6 +3,9 @@
 ## Description
 This command-line application generates a professional README.md file based on user input. It utilizes the Inquirer package to prompt the user for details about their project and then dynamically creates a README.md file with the provided information. This tool aims to streamline the process of creating informative and well-structured README files for projects.
 
+## Walkthrough
+https://app.screencastify.com/v2/manage/videos/hGlAABX7yBonhboYTKpN
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
